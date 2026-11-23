@@ -275,3 +275,124 @@ The platform should be designed to support increasing numbers of:
 Technical upgrades must be planned according to actual usage and available resources.
 
 **Status:** These requirements are part of the long-term project plan. Implementation will follow the approved development roadmap.
+
+## 22. User Registration and Account Management
+
+The platform must provide a secure and simple registration system.
+
+### Customer Registration
+- Create an account.
+- Enter name and contact information.
+- Select country and city.
+- Manage personal profile.
+- View orders and reservations.
+- Manage account settings.
+
+### Business Registration
+- Register a business account.
+- Enter business name and category.
+- Provide country, city and business address.
+- Add contact information.
+- Submit required verification documents.
+- Wait for approval when verification is required.
+
+### Account Security
+- Secure login and logout.
+- Password recovery.
+- Account status management.
+- Protection against unauthorized access.
+
+## 23. Business Owner Dashboard
+
+Every approved business must have an independent dashboard.
+
+Business owners should be able to:
+- Edit business information.
+- Add and update products or services.
+- Manage prices.
+- Manage availability.
+- Receive customer requests.
+- Accept or reject reservations.
+- Manage orders.
+- View customer messages.
+- View business performance reports.
+
+Business owners must only access their own business data.
+
+## 24. Customer Dashboard
+
+Customers must have a personal dashboard.
+
+Features:
+- Manage personal information.
+- Search businesses.
+- Save favorite businesses.
+- Submit orders.
+- Request reservations.
+- Track request status.
+- View order history.
+- Cancel requests according to platform policies.
+- Submit reviews after eligible transactions.
+
+## 25. Order and Reservation Workflow
+
+Every order and reservation must follow a clear process.
+
+### Request Status
+- Pending: Request submitted.
+- Under Review: Business is reviewing the request.
+- Accepted: Business accepts the request.
+- Rejected: Business rejects the request.
+- Confirmed: Final confirmation completed.
+- Completed: Service or order completed.
+- Cancelled: Request cancelled.
+
+### Important Rules
+- Customers receive status updates.
+- Businesses manage their own requests.
+- Customers can contact the relevant business.
+- Important actions must be recorded.
+- Payment status must be tracked separately from order status.
+
+## 26. Business Verification and Quality Control
+
+The platform must establish a reliable business verification process.
+
+### Verification Steps
+- Collect business information.
+- Review submitted documents.
+- Check contact details.
+- Review business category.
+- Approve, reject or request additional information.
+
+### Verification Status
+- Unverified.
+- Pending Review.
+- Verified.
+- Rejected.
+- Suspended.
+
+Only genuinely reviewed businesses may receive verified status.
+
+Super Admin must be able to suspend businesses that violate platform rules.
+
+## 27. Customer Support and Dispute Management
+
+The platform must provide a structured support system.
+
+### Support Features
+- Customer complaint submission.
+- Business-related complaints.
+- Order and reservation disputes.
+- Support ticket numbers.
+- Complaint status tracking.
+- Communication between support staff and customers.
+- Escalation to Super Admin.
+
+### Responsibilities
+- Businesses handle their own initial customer requests.
+- Support Staff handle assigned complaints.
+- Super Admin supervises serious disputes.
+- All important decisions must be recorded.
+
+The goal is to create a fair, transparent and manageable international marketplace.
