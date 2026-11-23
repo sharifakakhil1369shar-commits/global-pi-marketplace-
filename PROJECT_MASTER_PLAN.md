@@ -111,3 +111,28 @@ Develop Global Pi Marketplace into a reliable, scalable and genuinely useful int
 All important decisions, completed tasks, technical changes and future plans must be recorded here with dates and status.
 
 **Document status:** Initial master plan — to be expanded and updated throughout development.
+## 15. Business Management and Platform Structure
+
+### Super Admin
+The central administrator manages and supervises the entire platform.
+
+### Business Owners
+Each business has its own independent account and dashboard.
+
+### Customers
+Customers can search, submit orders and request reservations.
+
+### Support Staff
+Support staff help customers and review complaints with limited permissions.
+
+### Business Operations
+- Each business receives its own orders and reservation requests.
+- Business owners manage prices, availability and confirmations.
+- The central administrator supervises platform activity.
+- Businesses are responsible for responding to their own customers.
+- The platform manages complaints and monitors business conduct.
+
+### Initial Payment Model
+Customers pay businesses directly.
+Platform commissions are recorded separately.
+Centralized payments and automatic commission collection are future developments.
