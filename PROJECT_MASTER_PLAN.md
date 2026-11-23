@@ -136,3 +136,142 @@ Support staff help customers and review complaints with limited permissions.
 Customers pay businesses directly.
 Platform commissions are recorded separately.
 Centralized payments and automatic commission collection are future developments.
+
+## 16. Financial Architecture and Accounting
+
+The platform must support a transparent, secure and expandable financial system.
+
+- Maintain a central financial management dashboard.
+- Record business transactions, platform revenue and expenses.
+- Track commissions, refunds and payment statuses.
+- Plan for multiple currencies, including USD and EUR.
+- Keep business funds separate from platform revenue.
+- Maintain accurate financial records and transaction histories.
+- Support financial reports for Super Admin.
+- Never promise automatic payments before they are technically and legally supported.
+
+### Financial Accounts
+The future financial architecture may include:
+- Legal business bank accounts.
+- Officially supported Pi payment integration.
+- Multi-currency accounting.
+- Financial reporting and reconciliation.
+
+Bank accounts, Pi wallets and exchange accounts must remain separate.
+
+## 17. Revenue and Business Model
+
+The platform may generate revenue through:
+
+- Business registration or subscription plans.
+- Featured business listings.
+- Advertising services.
+- Premium business dashboard features.
+- Reservation and order commissions.
+- Additional professional services.
+
+### Revenue Principles
+- Fees must be transparent.
+- Business owners must understand commission rules.
+- All platform revenue must be recorded.
+- Pricing plans must be manageable by Super Admin.
+- Revenue models must be tested before public launch.
+- No guaranteed income or profit claims.
+
+## 18. Global Business Categories and Search
+
+The marketplace should support different types of businesses worldwide.
+
+### Main Categories
+- Hotels and guesthouses.
+- Restaurants and food services.
+- Shops and retail products.
+- Travel and tourism services.
+- Local and professional services.
+- Other approved business categories.
+
+### Search and Discovery
+Customers should be able to:
+- Select a country and city.
+- Search by business name.
+- Search by category.
+- Filter available services.
+- View business profiles and contact details.
+- Compare relevant business information.
+
+The category system must be expandable without rebuilding the platform.
+
+## 19. Languages and Accessibility
+
+### Initial Language
+English will be the initial development language.
+
+### Future Languages
+Plan support for:
+- Dari.
+- Pashto.
+- Arabic.
+- Turkish.
+- Other international languages.
+
+### Accessibility
+- Mobile-friendly design.
+- Desktop and tablet support.
+- Clear navigation.
+- Readable text and simple forms.
+- Support for different screen sizes.
+- Accessible user interfaces.
+
+Language and accessibility improvements must not damage existing features.
+
+## 20. Legal Compliance, Trust and Verification
+
+The platform must be designed with international users and businesses in mind.
+
+Important requirements:
+- Terms of Service.
+- Privacy Policy.
+- Business registration rules.
+- Customer protection procedures.
+- Complaint and dispute management.
+- Fraud prevention.
+- Business verification procedures.
+- Clear payment and refund policies.
+
+Legal requirements must be reviewed according to the countries where the platform operates.
+
+The platform must not claim that a business is verified unless verification has actually been completed.
+
+## 21. Infrastructure, Testing and Future Scalability
+
+The technical architecture must support long-term growth.
+
+### Infrastructure
+- Reliable hosting.
+- Secure database.
+- Regular backups.
+- Domain and deployment management.
+- Monitoring and error reporting.
+- Secure API connections.
+- Separation of development and production environments.
+
+### Testing
+- Test registration and login.
+- Test business profiles.
+- Test search and filters.
+- Test order and reservation workflows.
+- Test security and permissions.
+- Test mobile and desktop layouts.
+- Fix critical errors before public release.
+
+### Scalability
+The platform should be designed to support increasing numbers of:
+- Customers.
+- Businesses.
+- Orders and reservations.
+- Countries and cities.
+- Transactions and records.
+
+Technical upgrades must be planned according to actual usage and available resources.
+
+**Status:** These requirements are part of the long-term project plan. Implementation will follow the approved development roadmap.
