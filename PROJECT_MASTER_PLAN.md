@@ -396,3 +396,155 @@ The platform must provide a structured support system.
 - All important decisions must be recorded.
 
 The goal is to create a fair, transparent and manageable international marketplace.
+
+## 28. Advanced Security and Data Protection
+
+Security must be considered throughout the entire platform.
+
+- Use secure authentication and authorization.
+- Apply role-based access control.
+- Protect customer and business information.
+- Validate all user inputs.
+- Protect APIs against unauthorized access.
+- Use secure connections (HTTPS).
+- Keep passwords securely hashed.
+- Never store Pi wallet passphrases or private keys.
+- Never publish API secrets or credentials in GitHub.
+- Maintain regular backups.
+- Record important administrative actions.
+- Establish procedures for security incidents.
+
+## 29. Database Architecture and Data Management
+
+The platform requires a reliable and scalable database.
+
+Main data entities should include:
+- Users.
+- Customer profiles.
+- Business profiles.
+- Business categories.
+- Countries and cities.
+- Products and services.
+- Orders.
+- Reservations.
+- Payments and financial records.
+- Reviews and ratings.
+- Support tickets.
+- Verification records.
+- Notifications.
+
+### Data Management Rules
+- Each business must access only its authorized records.
+- Customer information must be protected.
+- Important records must have timestamps.
+- Data relationships must remain consistent.
+- Backups and recovery procedures are required.
+- Database structure must support future expansion.
+
+## 30. Pi Network and Pi SDK Integration
+
+Pi integration must follow official Pi Network documentation and current platform requirements.
+
+Planned capabilities:
+- Pi account authentication, where officially supported.
+- Secure user authentication.
+- Pi payment integration, subject to official approval and technical support.
+- Payment status verification.
+- Transaction records.
+- Error and refund handling.
+
+### Integration Rules
+- Never trust a payment based only on a screenshot.
+- Verify payment status through the supported official process.
+- Never expose private keys or wallet passphrases.
+- Test all integrations in the appropriate environment.
+- Do not claim Pi payments are operational until successfully tested.
+
+## 31. Quality Assurance and Testing Strategy
+
+Every important feature must be tested before public release.
+
+### Testing Areas
+- Registration and login.
+- Customer and business dashboards.
+- Business verification.
+- Search and filtering.
+- Orders and reservations.
+- Reviews and ratings.
+- Notifications.
+- Payment workflows.
+- Security and permissions.
+- Mobile and desktop compatibility.
+
+### Release Rules
+- Fix critical errors before release.
+- Test new changes before deployment.
+- Keep a record of known issues.
+- Avoid breaking existing working features.
+- Maintain separate testing and production environments.
+
+## 32. Website Deployment and Global Access
+
+The long-term objective is a real public website accessible worldwide.
+
+Planned requirements:
+- Register a suitable custom domain.
+- Select reliable hosting.
+- Configure HTTPS.
+- Deploy the production application.
+- Connect the production database.
+- Configure backups and monitoring.
+- Optimize mobile and desktop performance.
+- Provide a clear process for updates and maintenance.
+
+GitHub is used for source code management. A production hosting service is required to operate the public website.
+
+A public website must not be announced as fully operational until deployment and testing are complete.
+
+## 33. Implementation Roadmap and Project Priorities
+
+Development must follow a controlled and realistic roadmap.
+
+### Phase 1 — Foundation
+- Complete project documentation.
+- Organize the source code.
+- Establish the development environment.
+- Build the initial website interface.
+
+### Phase 2 — Core Marketplace
+- Customer registration.
+- Business registration.
+- Business profiles.
+- Search and categories.
+- Customer and business dashboards.
+
+### Phase 3 — Marketplace Operations
+- Orders and reservations.
+- Business verification.
+- Reviews and ratings.
+- Customer support.
+- Admin dashboard.
+
+### Phase 4 — Testing and Launch Preparation
+- Security testing.
+- Functional testing.
+- Database preparation.
+- Hosting and deployment.
+- Initial business onboarding.
+
+### Phase 5 — International Expansion
+- Official Pi integration where supported.
+- Additional languages.
+- More countries and business categories.
+- Advanced financial services.
+- Additional travel and international services.
+
+### Development Principles
+- Build in small, verifiable steps.
+- Prioritize essential features.
+- Avoid unnecessary costs.
+- Do not repeat completed work.
+- Record important decisions in this master plan.
+- Obtain approval before changing major project decisions.
+
+**Current status:** This roadmap describes planned work. It does not mean these features have already been implemented.
